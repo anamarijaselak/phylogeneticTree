@@ -1,0 +1,74 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+gi|759527361|ref|NZ_BATO010002      -----------------------------CCGACG---ACTGATCG---- 14
+gi|Aeromonas_encheleia              ATTCACGGGTTGTGGAGCAACAGAAAAAACCGTCAGGCACCGATCAAAGA 50
+gi|Pseudomonas_aeruginosa_PAO1      -------------------------ATGACCAACA-----AGATCATT-- 18
+gi|Escherichia_coli_0.1288_E01      -----------------------------------------AATCAAA-- 7
+gi|Aeromonas_caviae_Ae398_          ----------------------CTAGGGGACGCC---------------- 12
+gi|Escherichia_coli_09BKT07884      ---------------------ATATGGAGACACCGTAAATAAAGCGATGG 29
+                                                                                      
+
+gi|759527361|ref|NZ_BATO010002      ----CTACAGGGCC------TTCGCCTGTCACAGGAAT------CG---- 44
+gi|Aeromonas_encheleia              GAAACCTCTGGGCCGGATGGATTCCAAGTCACGGGAACGTGACACGTTCG 100
+gi|Pseudomonas_aeruginosa_PAO1      ----CAGCAGATCG-------AAGCTGAACAGATGAAC---AAAGAGATC 54
+gi|Escherichia_coli_0.1288_E01      ----CCACTGG--------------TGGTCAG------------------ 21
+gi|Aeromonas_caviae_Ae398_          ---ACTTCTCTTCT--------TGCT------AACGAG------------ 33
+gi|Escherichia_coli_09BKT07884      CAATCTTATCATTC--------ATCTGTTCTCAGCGGG------------ 59
+                                        *  .:                                         
+
+gi|759527361|ref|NZ_BATO010002      -CTGCTGTGATATAG-CCGTTTGCAAG--GTCAGCTGCTGTCACGGTGT- 89
+gi|Aeromonas_encheleia              ACAGCGATGGCATCGGCCAGGTGCGTGTGGTCAGTGGCCGTCGTGCCGAG 150
+gi|Pseudomonas_aeruginosa_PAO1      CCGGCGTTCGCCCCCGGCGATACCGTG---ATCGTCCAGGTCAAGGTGA- 100
+gi|Escherichia_coli_0.1288_E01      -------TATCATCAGGC------------AACGCCCCG-TCATGGAAT- 50
+gi|Aeromonas_caviae_Ae398_          ------AATGCAGA---CATAAG---------CATTACG----TGTTTA- 60
+gi|Escherichia_coli_09BKT07884      ------AATAAAAATGGCGAAAA---------CAAAACAGGAATGGCTG- 93
+                                           :   . .   *              ..   .      *     
+
+gi|759527361|ref|NZ_BATO010002      ---AGTTAGTA--CCGTTAACATTCACCACTGTGCCATCAA-CTGCATCC 133
+gi|Aeromonas_encheleia              CCCAAGCTGCA--CAACGATGAGCCTGAAGCGAGCCGCCGTGCTGCCCCC 198
+gi|Pseudomonas_aeruginosa_PAO1      ---AGGAAGGAGACCGTCAGCGTCTGCAGGCCTTCGAAGGCGTCGTTATC 147
+gi|Escherichia_coli_0.1288_E01      ---ATGATGCATCCCATCT----CGGCA------AGATGGT----TAACC 83
+gi|Aeromonas_caviae_Ae398_          ---TGTCTGTT----------TTCTTCGG-CCTCGCGCCG---------- 86
+gi|Escherichia_coli_09BKT07884      ---TATCAGTTA-CGGCGATGTTCATCAGTCAATACGCTGGAAAAAATTA 139
+                                       :   :* :                         .  .          
+
+gi|759527361|ref|NZ_BATO010002      G--GTC-CTAATGCCACTTGTGCATTGAAGCTGC-CATCTGTAC-CTAAC 178
+gi|Aeromonas_encheleia              GCCTTCGATGAAGACGAGGATGACGAGCTGCCAC-CGCCCGTGCGCAAGC 247
+gi|Pseudomonas_aeruginosa_PAO1      G----CCAAGCGCAACCGTGGCCTGAACAGCGCCTTCACCGTGCGCAAGA 193
+gi|Escherichia_coli_0.1288_E01      G----ACTGGAAGAAACATTACCC--CCGGAG---TTACCG---GCAT-- 119
+gi|Aeromonas_caviae_Ae398_          -------TTGCAAACATG--CTCTTTAACAATCTGGAAAGCTGATTTAAA 127
+gi|Escherichia_coli_09BKT07884      T----TCATAAAAACAGAGACAGTTTATTAAACAGTGAACGTGAATCATT 185
+                                             ..  ..              ..       .        :  
+
+gi|759527361|ref|NZ_BATO010002      TCGTCTGCATTCAAGATACCGT---CGCCATTTAGGTCTTCAGGAATCGT 225
+gi|Aeromonas_encheleia              CTGTCGCTCGCCCGGCCCCCGCGCCCGTCTATGAAGATGACGAGTATGAA 297
+gi|Pseudomonas_aeruginosa_PAO1      TC-TCCAACGGCGTGGGCGTGGAACGTACCTTCCAGACCTACAGCCCGAT 242
+gi|Escherichia_coli_0.1288_E01      ------AACGGC-TATTC-TG---CG-CCTTTTACGTTTTATCACCTGAT 157
+gi|Aeromonas_caviae_Ae398_          AAGTAGTTCT-CAAACATTTG---TTACAAGTG-----CTTTGGAAACTT 168
+gi|Escherichia_coli_09BKT07884      TAATTCAGCAGCAGACCACCGG--TTAGCGGAATTAATCACCGGAAAGTT 233
+                                            .  *  .     *       .  :       :   . .   :
+
+gi|759527361|ref|NZ_BATO010002      -GATCGCACCGATCAGGTCTGCAGGAACTGTATCAACCG----TTACTGT 270
+gi|Aeromonas_encheleia              -GAGC-CGCTCGCCGAGACCATGGAGGAAGCCCCTGCCG----CCCCGGT 341
+gi|Pseudomonas_aeruginosa_PAO1      CGTCGACAGCCTGAGCGTCAAGCGTCGCGGCGACGTGCG----CAAGGCC 288
+gi|Escherichia_coli_0.1288_E01      --TTGTCAGTGTCATCGTCAT--GACTCAGAGAGGT-------AAATACC 196
+gi|Aeromonas_caviae_Ae398_          CT-TGGCG-AAAACCAAATTTTATTTGGTCACCT---------TCCTTCG 207
+gi|Escherichia_coli_09BKT07884      ATATGACAGGATACCAAAAGAGATATGGAAATATGTAAGGTAATAATTCA 283
+                                          *.     .  .:                           .    
+
+gi|759527361|ref|NZ_BATO010002      ---CACGTCTGCATCTGCAACATCTACG-TTACCTTGTGCATC---CACT 313
+gi|Aeromonas_encheleia              GCGCAAGCCTGC-TCAGGTAATCCGTCG-TACCCCGGTGCACCGCTCCCG 389
+gi|Pseudomonas_aeruginosa_PAO1      AAGCTGTACTACCTCCGCGCCCTGTCCGGCAAGGCCGCGCGCATCAAGGA 338
+gi|Escherichia_coli_0.1288_E01      ATGAT--------TCA----CCTGTTC----------------------- 211
+gi|Aeromonas_caviae_Ae398_          GGAAGAAAGTTGTGCAGCAACA------------AGCTGG---------- 235
+gi|Escherichia_coli_09BKT07884      GCATAATTAATTACCAGGAGCAGATAAACAATGAAGCTGATTATTTTTAT 333
+                                                  *     .                             
+
+gi|759527361|ref|NZ_BATO010002      GCTTCTGCATGGA--- 326
+gi|Aeromonas_encheleia              TCCCCAGCGCGAG--- 402
+gi|Pseudomonas_aeruginosa_PAO1      AAAACTGGTCTAA--- 351
+gi|Escherichia_coli_0.1288_E01      AAAAC----------- 216
+gi|Aeromonas_caviae_Ae398_          ----GTCGTTCA---- 243
+gi|Escherichia_coli_09BKT07884      TCTTATTGTTCTGATT 349
+                                                    

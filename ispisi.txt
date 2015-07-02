@@ -1,0 +1,38 @@
+		// Map<Integer, Integer> top = new HashMap<Integer, Integer>();
+		// for (TreeNode tree : posTrees.get(0)) {
+		// // System.out.println("*********************");
+		// if (top.get(((Root) tree).topology) == null) {
+		// top.put(((Root) tree).topology, 1);
+		// } else {
+		// top.put(((Root) tree).topology,
+		// 1 + top.get(((Root) tree).topology));
+		// }
+		//
+		// // printBinaryTree(tree, 0);
+		// // System.out.println();
+		// // System.out.println("Topologija " + ((Root) tree).topology);
+		// // System.out.println("Nastao od  " + ((Root)
+		// // tree).madeFromTopology);
+		// // System.out
+		// // .println("Cijena " + PhylogeneticTree.countTreeCost(tree));
+		// }
+
+		// System.out.println(optimalTressPos.entrySet().size());
+		// System.out.println("**********");
+		// for (Map.Entry<Integer, List<OptimalTopologies>> entry :
+		// optimalTressPos
+		// .entrySet()) {
+		//
+		// System.out.println(entry.getKey());
+		// for (OptimalTopologies topology : entry.getValue()) {
+		// System.out.println(topology.topology + " " + topology.cost
+		// + " " + topology.optimalTrees.size());
+		// }
+		// }
+
+		// System.out.println(posTrees.get(0).size());
+
+		// for (FullTree fullTree : fullTrees) {
+		// System.out.println(fullTree.topology + " cijena: "
+		// + fullTree.totalCost);
+		// }

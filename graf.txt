@@ -1,0 +1,13 @@
+digraph G {
+n1[label = "A"];
+n2[label = "T"];
+n3[label = "A"];
+n4[label = "G"];
+n5[label = "T"];
+n6[label = "C"];
+n1 -> n2;
+n1 -> n3;
+n1 -> n4;
+n4 -> n5;
+n4 -> n6;
+}

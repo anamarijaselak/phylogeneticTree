@@ -1,0 +1,65 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+gi|Pseudomonas_fluorescens_A50      GGGGCCGTTTAGGATTCGA-CGCCGGTCGCGAAACTTTAGGTGCATGCCG 49
+gi|Aeromonas_caviae_Ae398_          --------CTAGGGGACGC-CACTTCTCTTCTTGCTAACG-AGAATGCAG 40
+gi|Pseudomonas_aeruginosa_PAO1      ATGACCAACAAGATCATTC-AGCAGATCGAAGCTGAACAGATGAACAAAG 49
+gi|Pseudomonas_alcaligenes_MRY      ----CCGACGACTGATCGC-TACAGGGCCTTCGCCTGTCACAGGAAT--- 42
+gi|Aeromonas_allosaccharophila      -CGCCCGACACTTGCTGACGTACAGGAACAGTACTTGCCAAGCGTTTTAG 49
+                                              .    :  .  .*    .       :  ..    :     
+
+gi|Pseudomonas_fluorescens_A50      AGTTGGTAACAGAA---CTCGTAAATCCACTGTTGCAACTTCTTATAGTT 96
+gi|Aeromonas_caviae_Ae398_          ACAT--AAGCATTA---CGTGTTTATG-TCTGTT---------------- 68
+gi|Pseudomonas_aeruginosa_PAO1      AGATCCCGGCGTTCGCCCCCGGCGATACCGTGATCGTCCAG--------- 90
+gi|Pseudomonas_alcaligenes_MRY      CGCTG----CTGTGATATAGCCGTTTGCAAGGTCAGCT------------ 76
+gi|Aeromonas_allosaccharophila      CGCAAGAGTCCGTCACTCCATACATTGCAATGCTGAAT------------ 87
+                                    .  :     *  :           :*     *                  
+
+gi|Pseudomonas_fluorescens_A50      GCCAATGACGAAAACTACGGCCAGGAATTCGCTCTCGCTG----CGTAAG 142
+gi|Aeromonas_caviae_Ae398_          ------------TTCTTCGGCCT------CGCGC-CGTTG----C--AAA 93
+gi|Pseudomonas_aeruginosa_PAO1      GTCAAGGTGAAGGAAGGAGACCG----TCAGCGTCTGCAGG---CCTTCG 133
+gi|Pseudomonas_alcaligenes_MRY      GCTGTCACGGTGTAGTTAGTACCGTT-AACATT-CACCA-----CTGTGC 119
+gi|Aeromonas_allosaccharophila      GGAGAGCCGATTGGGTATGCCCAGTCGTACGTTGCTCTTGGAAGCGGGGA 137
+                                                      * .*       ..       :     *     
+
+gi|Pseudomonas_fluorescens_A50      CAGCCTTAG-CCCTGAGCTTCTGGTACCTTCGGGTCCAGCAATCACCAGG 191
+gi|Aeromonas_caviae_Ae398_          CATGCT----CTTTAACAATCTGGAAAG--------CTGATTTAAAAAGT 131
+gi|Pseudomonas_aeruginosa_PAO1      AAGGCGTCG-TTATCGCCAAGCGCAACCG--------TGGCCTGAACAGC 174
+gi|Pseudomonas_alcaligenes_MRY      CATCAACTG--------CATCCGGTCCT-----------AATG--CCACT 148
+gi|Aeromonas_allosaccharophila      CGGAAGGTGGGAAGAAGAAACCGATCCAGGAGTACGCGGAATAGACCAGT 187
+                                    ..  .            .::  * :..                  ..*  
+
+gi|Pseudomonas_fluorescens_A50      GGATG----TCTGTAAACCCAAAGTGATTGTCATATAGAACAGAATCGCC 237
+gi|Aeromonas_caviae_Ae398_          AGTT-------------CTCAAA--------CATTTGTTACA-------- 152
+gi|Pseudomonas_aeruginosa_PAO1      GCCT-----TCACCGTGCGCAAG---------ATCTCCAACGG------- 203
+gi|Pseudomonas_alcaligenes_MRY      TG--------TGCATTGAAGCTG-------CCATCTGTACCTAACTCG-- 181
+gi|Aeromonas_allosaccharophila      TACTGGCGAATGCATCACAACTGGGCAAAGGCTTGGGAACCAAGCTGG-- 235
+                                                     .  .:.         :*    :.*         
+
+gi|Pseudomonas_fluorescens_A50      GTGCAGTACGTTGTGGACGAAGCGGCTAAAACTTACACAACTCGCCCAAA 287
+gi|Aeromonas_caviae_Ae398_          ----AGTGCTTTGGAAACTTCTTGGCGAAAACCAAATTTTATT----TGG 194
+gi|Pseudomonas_aeruginosa_PAO1      ----CGTGGGCGTGGAACGTACCTTCCAGACCTACAGCCCGAT--CGTCG 247
+gi|Pseudomonas_alcaligenes_MRY      ----TCTGCATTCAAGATACCGTCGCCATTTAGGTCTTCAGG---AATCG 224
+gi|Aeromonas_allosaccharophila      ----TTCGAGCTCTGGTTG-AGTTGCTGTTCAATGATCCCGAGGTCACCA 280
+                                           .      ..:   .    * . : .   .             .
+
+gi|Pseudomonas_fluorescens_A50      GCACCCTGCCCTTCGGGTCGCTGAGGGTTAACTTAATAGAAACGGCTACG 337
+gi|Aeromonas_caviae_Ae398_          TCACCTT--CCTTCGGG------------------------------AAG 212
+gi|Pseudomonas_aeruginosa_PAO1      ACAGCCTGAGCGTCAAGCGTCGCGGCG----------ACGTGCGCAAGGC 287
+gi|Pseudomonas_alcaligenes_MRY      TGATCGCACCGATCAGGTCTGC-AGGAACT-----------GTATCAACC 262
+gi|Aeromonas_allosaccharophila      AGATCCAAACGGACCCGTCGCCGAGCAACTT--------GCGAGCGATCC 322
+                                      * *       :*  *                                 
+
+gi|Pseudomonas_fluorescens_A50      CATGTAGTACCGACAGCGGAGTACTGGC-GGACGGG-------GGTTCAA 379
+gi|Aeromonas_caviae_Ae398_          AAAGTTGTGCAG-CAACAAG---CTG---GGTCG-----------TTCA- 243
+gi|Pseudomonas_aeruginosa_PAO1      CAAGCTGTACTACCTCCGCG-CCCTGTC-CGGCAAGGCCGCGCGCATCAA 335
+gi|Pseudomonas_alcaligenes_MRY      GTTACTGTCACGTCTGCAT-CTGCAACATCTACGTTACCTTGTGCATCCA 311
+gi|Aeromonas_allosaccharophila      GATGCT-ACGAGAAAGCGGGGTTTGAGAGGCAAGGTACCGTAACCACCCC 371
+                                     ::. : :   . .: *.       .      ..           : *. 
+
+gi|Pseudomonas_fluorescens_A50      ATC-----CCCCCGGCTCCACCA----- 397
+gi|Aeromonas_caviae_Ae398_          ----------------------------
+gi|Pseudomonas_aeruginosa_PAO1      GGA-----AAAACTGGTCTAA------- 351
+gi|Pseudomonas_alcaligenes_MRY      CTG---------CTTCTGCATGGA---- 326
+gi|Aeromonas_allosaccharophila      ATATGGTCCAGCCGTGTACATGGTTCAA 399
+                                                                

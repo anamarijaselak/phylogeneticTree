@@ -1,0 +1,65 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+gi|Escherichia_coli_0.1288          --------------------------------------------------
+gi|Escherichia_coli_1-110-08_S      -----------CTCTTACCGACAAATTCC--------------------- 18
+gi|Escherichia_fergusonii           GGATCCTGGGTATTAAAAAGAAGATCTAT--------------------- 29
+gi|Escherichia_fergusonii_B253      -GGGGCTGATTCTGGATTCGACGGGATTTGCGAAACCCAAGGTGCATGCC 49
+gi|Escherichia_coli_1240            --------------------------------------------------
+                                                                                      
+
+gi|Escherichia_coli_0.1288          ---------------AATCAAACCACTG------GTGGTCAGTATCAT-- 27
+gi|Escherichia_coli_1-110-08_S      ------TGAGTTTACCGTCAGAACTCAG------AAAATCACTGACATGG 56
+gi|Escherichia_fergusonii           ------TTATTTAGAGATCTGTTCTATT------GTGATCTCTTATTAGG 67
+gi|Escherichia_fergusonii_B253      GAGGGGCGGTTGGCCTCGTAAAAAGCCGCAAAAAATAGTCGCAAACGACG 99
+gi|Escherichia_coli_1240            ------CGAATAGCCCAGCAAATCACCG-----ATTTGT-GCAGGCG--- 35
+                                                       :.: . .         : .*   :       
+
+gi|Escherichia_coli_0.1288          --------------------CAGGCAAC---------------GCCCCG- 41
+gi|Escherichia_coli_1-110-08_S      GACAGAGGAATGGAACTGGCCAGACATCTAGAATTTACTGTCAGCACCGG 106
+gi|Escherichia_fergusonii           --------------------ATCGCACT---------------GCCCTG- 81
+gi|Escherichia_fergusonii_B253      AAAA---------CTACGCTTTAGCAGCTTAAT----------AACCTGC 130
+gi|Escherichia_coli_1240            -------------------TTTTGCC-----------------TTCCTGC 49
+                                                         : .*.                   .* * 
+
+gi|Escherichia_coli_0.1288          ---TCATGGAATATGATGC--ATCCCAT-----CTCGGCA---------- 71
+gi|Escherichia_coli_1-110-08_S      CGTTAAAGTTTACTTCTGCG-ATCCTCAGAGTCCTTGGCAGCGGGGAACA 155
+gi|Escherichia_fergusonii           ---TGGATAACAAGGATCCGGCTTTTAAG----ATCAACAACCTG----- 119
+gi|Escherichia_fergusonii_B253      T--TAGAGCCCTCT-CTCCCTAGCCTCCG----CTCTTAGGACGGG---- 169
+gi|Escherichia_coli_1240            -------GCCATCG-CACGGAATCCGGCA----ATCT--GTTCGG----- 80
+                                               :.  .:    .           .*    .          
+
+gi|Escherichia_coli_0.1288          -----------AGATGG--TTAACCGACTG---------GAAGAAACA-- 97
+gi|Escherichia_coli_1-110-08_S      AATGAGAACACAAATGGGCTAATTCGGCAGTACTTTCCTAAAAAGACA-- 203
+gi|Escherichia_fergusonii           -----------GAAAGG--ATCATTAACTG--------TGAATGATCGGT 148
+gi|Escherichia_fergusonii_B253      -----GATCAAGAGAGGTCAAACCCAAAAG----------AGATCGCGTG 204
+gi|Escherichia_coli_1240            ---------CAGGGTG--CATATCCCGACG----------ATGAC-CGT- 107
+                                               ...:*   ::.    .. *          *     *.  
+
+gi|Escherichia_coli_0.1288          --TTACC--CCCGGAGTTACCGGCAT-------------------AACGG 124
+gi|Escherichia_coli_1-110-08_S      --TGTCTTGCCCAATATACTCAACATGAACTAGATCTGGTTGCTGCTCAG 251
+gi|Escherichia_fergusonii           G-ATCCTGGACCGTATAAGCTGGGATCAG---------------AATGAG 182
+gi|Escherichia_fergusonii_B253      GAAGCCCTGCCTGGGGTTGAAGCGTTAAA---------------ACTTAA 239
+gi|Escherichia_coli_1240            -------TTTCAGTCATTGATGCG--------------------GCAGTC 130
+                                              * .   ::   .                       .:   
+
+gi|Escherichia_coli_0.1288          CTATTCTGCG-----------CCTTTTACGTT-TTATCACC--------- 153
+gi|Escherichia_coli_1-110-08_S      CTAAACAACAGACCGAGAAAGACACTGAAGTTCAAAACACCGAAAGAGAT 301
+gi|Escherichia_fergusonii           GGGTTATACA-----------CAACTCAAAAACTGAACAACGGTTG---- 217
+gi|Escherichia_fergusonii_B253      TCAGGCTAGTTT--------GTTAGTGGCGTGTCCGTCCGCAGCTGGCAA 281
+gi|Escherichia_coli_1240            GCCAGCTCCT--------------GCGGAATAACCTTCA--CGCGTACAG 164
+                                         .:                    ...:     :*.           
+
+gi|Escherichia_coli_0.1288          ---------------TGATTTGTCAGTGT---------CATCGTCA-TGA 178
+gi|Escherichia_coli_1-110-08_S      AATTGAAAGGGGTGTTGCATTGACAGATTGA--ATCTACAGCGGCG-TAC 348
+gi|Escherichia_fergusonii           ---------------TTCTTTGGATAACTAC--CGGTTGATCCAAGCTTC 250
+gi|Escherichia_fergusonii_B253      G----------CGAATGTAAAGACTGACTAAGCATGTAGTACCGAGGATG 321
+gi|Escherichia_coli_1240            G----------CCAGT---CAGCCGGAATGA--------TGCCACG---- 189
+                                                   *    :* . .: *          : *  ..    
+
+gi|Escherichia_coli_0.1288          CTCAGAGAGGTAAAT-ACCATGATTCACCTG--TTCAAAAC-- 216
+gi|Escherichia_coli_1-110-08_S      TTCGCAAAGCTGTCCGACTGAGGTACGCCTTTATCCGTGACA- 390
+gi|Escherichia_fergusonii           CTGACAGAGTTATCC-ACAGTAGATCGCACGATCTGTATAC-- 290
+gi|Escherichia_fergusonii_B253      TAGGAATTTCGGACG-CGGGTTCAACTCCCGCCAGCTCCACCA 363
+gi|Escherichia_coli_1240            -------CTCTGCCAGCATGTTGAG-TGCAGCCAGT------- 217
+                                               . .  .  .:  :    .              
